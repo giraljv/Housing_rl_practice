@@ -1,0 +1,2 @@
+setuptools == 58
+regressors == 0.0.3
